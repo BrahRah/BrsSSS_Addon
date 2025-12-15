@@ -25,6 +25,7 @@ Link will be added once available.
 res://addons/
 
 ├─ BrsSSS/
+
 └─ BrsLib/
 
 3. Open Godot
