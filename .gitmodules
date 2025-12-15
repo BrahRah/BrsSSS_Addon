@@ -1,0 +1,6 @@
+[submodule "addons/BrsLib"]
+	path = addons/BrsLib
+	url = https://github.com/BrahRah/BrsLib.git
+[submodule "addons/BrsSSS"]
+	path = addons/BrsSSS
+	url = https://github.com/BrahRah/BrsSSS.git
