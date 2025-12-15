@@ -23,6 +23,7 @@ Link will be added once available.
 2. Extract it into your project so you get:
 
 res://addons/
+
 ├─ BrsSSS/
 └─ BrsLib/
 
