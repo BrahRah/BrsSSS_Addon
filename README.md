@@ -22,9 +22,11 @@ Link will be added once available.
 1. Download the latest release ZIP from: https://github.com/BrahRah/BrsSSS_Addon/releases
 2. Extract it into your project so you get:
 
+```
 res://addons/
-    BrsSSS/
-    BrsLib/
+  ├─ BrsSSS/
+  └─ BrsLib/
+```
 
 3. Open Godot
 4. Go to Project → Project Settings → Plugins
